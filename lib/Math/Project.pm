@@ -1,4 +1,4 @@
-package Math::Project 0.04;
+package Math::Project 0.05;
 # ABSTRACT: Compute intersection with upright line through input point
 
 use strict;
